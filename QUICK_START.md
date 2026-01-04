@@ -32,7 +32,7 @@ curl 'https://chat.stream-io-api.com/channels?user_id=...&api_key=...' \
 6. **Paste into `.env`** file
 7. **Run the scraper**:
    ```bash
-   python main.py
+   python browse.py
    ```
 
 ## That's It!
